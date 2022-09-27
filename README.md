@@ -1,3 +1,2 @@
 # testeAPI
-testando  consumo de API
 ESTA API FOI CRIADA POR MIM  E MINHA ESPOSA GRAZI FRENK
